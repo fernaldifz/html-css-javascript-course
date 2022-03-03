@@ -1,0 +1,17 @@
+#header-nav {
+    background-color: #DCDCDC;
+    border-radius: 0;
+}
+
+.row {
+    margin: 20px
+}
+
+.col-xs-12 {
+    background-color: #DCDCDC;
+    margin-bottom: 20px;
+}
+
+p {
+    padding: 10px;
+}
